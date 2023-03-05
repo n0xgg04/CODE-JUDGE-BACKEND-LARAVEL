@@ -1,0 +1,1 @@
+import VANTA from 'vanta/vanta.net.js';
